@@ -1,6 +1,6 @@
 def join_nested_strings(src)
   s = ""
-  row_index = 0
+  a = 0
   while a < src.count do 
     b = 0 
     while b < src[a].count do
